@@ -1,0 +1,72 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "661bd5ba1dad15ad9acbfcd8b8af76f3",
+      "css": "quote-left",
+      "code": 59393,
+      "src": "iconic"
+    },
+    {
+      "uid": "bc0af4824c8eedcad7bc0d35911dac2a",
+      "css": "quote-right",
+      "code": 59394,
+      "src": "iconic"
+    },
+    {
+      "uid": "422e07e5afb80258a9c4ed1706498f8a",
+      "css": "circle",
+      "code": 61708,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "7222571caa5c15f83dcfd447c58d68d9",
+      "css": "search",
+      "code": 59395,
+      "src": "entypo"
+    },
+    {
+      "uid": "8045477f6a7ef0bd7caff130ad25b88d",
+      "css": "facebook",
+      "code": 62209,
+      "src": "brandico"
+    },
+    {
+      "uid": "4ce29a8a317da7eb4dde310ff2083a81",
+      "css": "down",
+      "code": 59396,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M990.9 302.3C975.8 282.2 947.3 278.1 927.3 293.2L500 613.6 72.7 293.2C52.6 278.1 24.2 282.2 9.1 302.3-6 322.4-1.9 350.8 18.2 365.9L472.7 706.8C480.8 712.9 490.4 715.9 500 715.9 509.6 715.9 519.2 712.9 527.3 706.8L981.8 365.9C1001.9 350.8 1006 322.4 990.9 302.3Z",
+        "width": 1000
+      },
+      "search": [
+        "down-arrow-(1)"
+      ]
+    },
+    {
+      "uid": "8663320a860b00f26e94d3d15c9ba99a",
+      "css": "clock",
+      "code": 59392,
+      "src": "entypo"
+    },
+    {
+      "uid": "474656633f79ea2f1dad59ff63f6bf07",
+      "css": "star",
+      "code": 59397,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "31accb20e8819b200c297df608e68830",
+      "css": "video",
+      "code": 59398,
+      "src": "elusive"
+    }
+  ]
+}
